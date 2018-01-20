@@ -1,5 +1,5 @@
 # Tabchi V1.0
-ادیت شده توسط تله گیمر
+ویرایش شده توسط حاج علی
 
 ## نحوه نصب
 ```bash
@@ -27,5 +27,5 @@ Run : ./tabchi-0.sh
 برای اتو لانج یا روشن بودن خودکار دستور زیر را وارد کنید در پوشه تبچی
 ./telegamer.sh
 
-#### channel      [te1egamer](https://telegram.me/te1egamer)
+#### channel      [Hajalibotsaz](https://telegram.me/Hajalibotsaz)
 
